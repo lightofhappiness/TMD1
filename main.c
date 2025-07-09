@@ -1,3 +1,4 @@
+#include "header.h"
 int main()
 {
     int m, n;
@@ -59,7 +60,7 @@ int main()
     printf("%d diG %c\n", f, y);
     /*Tes*/
     printf("\n");
-    satu(m, f);
+    hasil(m, f);
 
     return 0;
 }
